@@ -1,0 +1,15 @@
+Data source link or reference:
+https://github.com/shubhamjha97/association-rule-mining-apriori
+
+Dataset Information:
+The Groceries Market Basket Dataset, which can be found here. The dataset contains 9835 transactions by customers shopping for groceries. The data contains 169 unique items. The data is suitable to do data mining for market basket analysis which has multiple variables.
+
+The data is under course Association rules mining using Apriori algorithm.
+Course Assignment for CS F415- Data Mining @ BITS Pilani, Hyderabad Campus.
+Done under the guidance of Dr. Aruna Malapati, Assistant Professor, BITS Pilani, Hyderabad Campus.
+
+Information of column:
+the column consists of 32 items starting from item 1, item 2, item 3, ..., item 30, item 31, item 32. These 32 items indicate what items the customer purchased. For example, a customer only buys 3 items, then item 4 - item 32 are NaN.
+
+Information of row:
+the row consists of 9835 transactions by customers shopping for groceries. The data contains 169 unique items.
